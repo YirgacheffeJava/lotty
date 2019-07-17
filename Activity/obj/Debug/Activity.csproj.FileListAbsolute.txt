@@ -1,0 +1,15 @@
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\bin\Activity.dll.config
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\bin\Activity.dll
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\bin\Activity.pdb
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.dll
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.pdb
+I:\ASP.NET\源码\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.csprojResolveAssemblyReference.cache
+G:\c#project\小白实战项目\Code\03\Activity\Activity\bin\Activity.dll.config
+G:\c#project\小白实战项目\Code\03\Activity\Activity\bin\Activity.dll
+G:\c#project\小白实战项目\Code\03\Activity\Activity\bin\Activity.pdb
+G:\c#project\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+G:\c#project\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.csproj.CopyComplete
+G:\c#project\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.dll
+G:\c#project\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.pdb
+G:\c#project\小白实战项目\Code\03\Activity\Activity\obj\Debug\Activity.csprojAssemblyReference.cache

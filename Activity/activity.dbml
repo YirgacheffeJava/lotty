@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="activity" Class="activityDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=activity;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="activityConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.activity_record" Member="activity_record">
+    <Type Name="activity_record">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="phone" Type="System.String" DbType="Char(11) NOT NULL" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="add_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="prize_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="prize_name" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

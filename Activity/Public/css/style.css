@@ -1,0 +1,36 @@
+.container {
+    margin-top: 20px;
+}
+
+/*首页*/
+#lottery{width:574px;height:584px;margin:20px auto 0;background:url(../images/bg.jpg) no-repeat;padding:50px 55px;}
+#lottery table td{width:142px;height:142px;text-align:center;vertical-align:middle;font-size:24px;color:#333;font-index:-999}
+#lottery table td a{width:284px;height:284px;line-height:150px;display:block;text-decoration:none;}
+#lottery table td.active{background-color:#ea0000;}
+#lottery table td img{ width:90px; height: 125px}
+
+
+/*奖品列表页*/
+.prize-title {
+    color:yellow;
+    text-align: center;
+    font-weight: bolder;
+    font-size:18px;
+    padding-bottom: 20px;
+}
+
+.prize-list-thead{
+    color:yellow;
+}
+
+.page {
+    text-align: center;
+}
+.pagination{
+    text-align: center;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #ffef2f;
+    border-color: #ffef2f;
+}
